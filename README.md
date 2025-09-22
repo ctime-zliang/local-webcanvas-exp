@@ -4,7 +4,10 @@ typora-root-url: images
 
 # local-webcanvas-exp
 
-由于 WebCanvas 未完成代码脱敏，因此暂无法将源码公开。可私信作者获取更多信息：ctimezliang@qq.com
+> 由于 WebCanvas 未完成代码脱敏，因此暂无法将源码公开。可私信作者获取更多信息：ctimezliang@qq.com
+>
+
+> 如遇到图片未加载显示，可直接进入目录访问图片
 
 ### 时钟案例
 
